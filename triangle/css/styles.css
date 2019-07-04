@@ -1,0 +1,22 @@
+body {
+    background-image: url('https://dollarfootage.com/wp-content/uploads/2017/05/tetrahedron-particle-field-explosion-grey-gradient-bg-1-img.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin:left;
+    margin: right;
+}
+#form{
+    margin:left;
+    margin:right;
+    text-align: center;
+    padding-top: 5%;
+} 
+
+h1{
+    margin:left;
+    margin:right;
+    text-align: center;
+}
+footer{
+    padding-left: 30%;
+   
